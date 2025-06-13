@@ -20,5 +20,3 @@ Machine Learning: Scikit-learn • XGBoost • LightGBM • CatBoost
 Deep Learning: TensorFlow • PyTorch • Keras • Transformers
 Visualization: Matplotlib • Seaborn • Plotly 
 ```
-
----
