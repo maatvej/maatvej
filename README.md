@@ -11,7 +11,7 @@
   <img src="images/numpy.svg" alt="NumPy" width="40" height="40"/>
   <img src="images/python.svg" alt="Python" width="40" height="40"/>
   <img src="images/pytorch.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="images/scikit-learn.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="images/scikitlearn.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="images/seaborn.svg" alt="Seaborn" width="40" height="40"/>
   <img src="images/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
 </div>
