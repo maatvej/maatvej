@@ -4,16 +4,6 @@
 </div>
 
 
-<div align="center">
-  <img src="images/django.svg" alt="Django" width="60" height="60"/>
-  <img src="images/matplotlib.svg" alt="Matplotlib" width="60" height="60"/>
-  <img src="images/numpy.svg" alt="NumPy" width="60" height="60"/>
-  <img src="images/python.svg" alt="Python" width="60" height="60"/>
-  <img src="images/pytorch.svg" alt="PyTorch" width="60" height="60"/>
-  <img src="images/scikitlearn.svg" alt="scikitlearn" width="60" height="60"/>
-  <img src="images/seaborn.svg" alt="Seaborn" width="60" height="60"/>
-  <img src="images/tensorflow.svg" alt="TensorFlow" width="60" height="60"/>
-</div>
 
 
 | Skill | Tools / Knowledge |
@@ -32,4 +22,14 @@
 | Deep learning frameworks | PyTorch, TensorFlow, Keras |
 | Conduct research | Analyzing and structuring scientific information, working with sources |
 
-![Django](images/django-original.svg)
+
+<div align="center">
+  <img src="images/django.svg" alt="Django" width="60" height="60"/>
+  <img src="images/matplotlib.svg" alt="Matplotlib" width="60" height="60"/>
+  <img src="images/numpy.svg" alt="NumPy" width="60" height="60"/>
+  <img src="images/python.svg" alt="Python" width="60" height="60"/>
+  <img src="images/pytorch.svg" alt="PyTorch" width="60" height="60"/>
+  <img src="images/scikitlearn.svg" alt="scikitlearn" width="60" height="60"/>
+  <img src="images/seaborn.svg" alt="Seaborn" width="60" height="60"/>
+  <img src="images/tensorflow.svg" alt="TensorFlow" width="60" height="60"/>
+</div>
