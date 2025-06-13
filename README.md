@@ -19,8 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"  alt="matplotlib" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"  alt="PyTorch" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  alt="TensorFlow" width="40" height="40"/>
-</div>
+
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maatvej&show_icons=true&theme=synthwave)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maatvej&show_icons=true&theme=synthwave)
+</div>
