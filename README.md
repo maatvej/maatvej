@@ -3,6 +3,8 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=750&lines=ML-engineer+%7C+Data+Scientist++%7C+Python+developer)](https://git.io/typing-svg)
 </div>
 
+![Django](images/django.svg)
+
 | Skill | Tools / Knowledge |
 |-------|-------------------|
 | Write code in Python | Python language (syntax, data types, loops, conditionals, functions, OOP), basic algorithms (sorting, searching, hashing, graphs, trees) |
@@ -18,3 +20,5 @@
 | Work with neural networks | Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), recommender systems, reinforcement learning |
 | Deep learning frameworks | PyTorch, TensorFlow, Keras |
 | Conduct research | Analyzing and structuring scientific information, working with sources |
+
+![Django](images/django-original.svg)
