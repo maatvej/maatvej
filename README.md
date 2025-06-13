@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Musatov Matvey  
-
 **ML Engineer | Data Scientist**  
 
 🔧 *Building smart systems that learn from data and make decisions.*
