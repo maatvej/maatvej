@@ -24,8 +24,3 @@
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maatvej&show_icons=true&theme=synthwave)
 </div>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00b486&center=true&vCenter=true&lines=I+drink+coffee+and+predict+things+%F0%9F%90%8D" alt="Typing SVG" width="500"/>
-</div>
