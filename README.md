@@ -23,4 +23,4 @@
 
 ---
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maatvej&show_icons=true&theme=synthwave)
