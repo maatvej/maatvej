@@ -6,14 +6,14 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="images/django.svg" alt="Django" width="40" height="40"/>
-  <img src="images/matplotlib.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="images/numpy.svg" alt="NumPy" width="40" height="40"/>
-  <img src="images/python.svg" alt="Python" width="40" height="40"/>
-  <img src="images/pytorch.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="images/scikitlearn.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="images/seaborn.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="images/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="images/django.svg" alt="Django" width="60" height="60"/>
+  <img src="images/matplotlib.svg" alt="Matplotlib" width="60" height="60"/>
+  <img src="images/numpy.svg" alt="NumPy" width="60" height="60"/>
+  <img src="images/python.svg" alt="Python" width="60" height="60"/>
+  <img src="images/pytorch.svg" alt="PyTorch" width="60" height="60"/>
+  <img src="images/scikitlearn.svg" alt="scikitlearn" width="60" height="60"/>
+  <img src="images/seaborn.svg" alt="Seaborn" width="60" height="60"/>
+  <img src="images/tensorflow.svg" alt="TensorFlow" width="60" height="60"/>
 </div>
 
 | Skill | Tools / Knowledge |
