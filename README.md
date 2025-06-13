@@ -3,7 +3,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=750&lines=ML-engineer+%7C+Data+Scientist++%7C+Python+developer)](https://git.io/typing-svg)
 </div>
 
-## Tech Stack
 
 <div align="center">
   <img src="images/django.svg" alt="Django" width="60" height="60"/>
@@ -15,6 +14,7 @@
   <img src="images/seaborn.svg" alt="Seaborn" width="60" height="60"/>
   <img src="images/tensorflow.svg" alt="TensorFlow" width="60" height="60"/>
 </div>
+
 
 | Skill | Tools / Knowledge |
 |-------|-------------------|
