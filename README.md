@@ -12,13 +12,6 @@
 
 ###  Tech Stack:
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"  alt="scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"  alt="matplotlib" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"  alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  alt="TensorFlow" width="40" height="40"/>
-
 | Умение | Инструменты / Знания |
 |--------|----------------------|
 | Писать код на Python | Язык Python (синтаксис, типы данных, циклы, условия, функции, ООП), основные алгоритмы (сортировка, поиск, хэширование, графы, деревья) |
@@ -27,6 +20,15 @@
 | Проведение разведывательного анализа данных (EDA) | Алгоритмы и методы EDA, статистические тесты, проектирование экспериментов, Pandas, Seaborn, Matplotlib, NumPy |
 | Визуализация данных | Seaborn, Matplotlib, BI-аналитика |
 | Извлечение фичей из данных | NumPy, Pandas |
+| Базовая математика для ML | Линейная алгебра, математический анализ, теория вероятностей, дискретная математика |
+| Работа с классическими алгоритмами | Обучение с учителем/без учителя/с подкреплением/semi-supervised; задачи: классификация, кластеризация, регрессия, снижение размерности |
+| Градиентный бустинг | XGBoost, CatBoost |
+| Оценка качества моделей | A/B-тестирование, метрики качества, оптимизация гиперпараметров |
+| Работа с нейронными сетями | Свёрточные (CNN), рекуррентные (RNN), рекомендательные системы, обучение с подкреплением |
+| Фреймворки глубокого обучения | PyTorch, TensorFlow, Keras |
+| Проведение исследований | Анализ и структурирование научной информации, работа с источниками |
+
+---
 
 ---
 
