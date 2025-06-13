@@ -1,16 +1,24 @@
-## Hi there 👋
+---
 
-<!--
-**maatvej/maatvej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I'm Musatov Matvey  
+**ML Engineer | Data Scientist**  
+🔧 *Building smart systems that learn from data and make decisions.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Do:
+- Design and implement **machine learning models** for real-world problems
+- Turn raw data into actionable **insights and visualizations**
+- Develop **scalable AI/ML pipelines** with MLOps best practices
+
+---
+
+### 💻 Tech Stack:
+```python
+Machine Learning: Scikit-learn • XGBoost • LightGBM • CatBoost
+Deep Learning: TensorFlow • PyTorch • Keras • Transformers
+Visualization: Matplotlib • Seaborn • Plotly
+Tools: Git • Docker • Django
+```
+
+---
