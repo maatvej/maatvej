@@ -18,14 +18,3 @@
 | Work with neural networks | Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), recommender systems, reinforcement learning |
 | Deep learning frameworks | PyTorch, TensorFlow, Keras |
 | Conduct research | Analyzing and structuring scientific information, working with sources |
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"  alt="scikit-learn" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"  alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  alt="TensorFlow" width="40" height="40"/>
-  
-  <br/>
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maatvej&show_icons=true&theme=synthwave)
-</div>
