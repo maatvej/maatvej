@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=700&lines=ML-engineer+%7C+Data+Scientist++%7C+Python+developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=750&lines=ML-engineer+%7C+Data+Scientist++%7C+Python+developer)](https://git.io/typing-svg)
 </div>
 
 | Skill | Tools / Knowledge |
