@@ -3,7 +3,8 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=750&lines=ML-engineer+%7C+Data+Scientist++%7C+Python+developer)](https://git.io/typing-svg)
 </div>
 
-| Skill | Tools / Knowledge |
+| [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&width=750&lines=Skill)](https://git.io/typing-svg)
+| Tools / Knowledge |
 |-------|-------------------|
 | Write code in Python | Python language (syntax, data types, loops, conditionals, functions, OOP), basic algorithms (sorting, searching, hashing, graphs, trees) |
 | Work with data frameworks | NumPy, Pandas |
