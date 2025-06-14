@@ -28,7 +28,7 @@
   <img src="images/tensorflow.svg" alt="TensorFlow" width="70" height="70"/>
   <img src="images/keras.svg" alt="Keras" width="70" height="70"/>
   <img src="images/pandas.svg" alt="Pandas" width="70" height="70"/>
-  <img src="images/django.svg" alt="Django" width="70" height="70"/>
+  <img src="images/django-icon.svg" alt="Django" width="70" height="70"/>
 </div>
 
 <img src="images/snake.svg">
