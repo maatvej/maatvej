@@ -16,5 +16,3 @@
   <img src="images/pandas.svg" alt="Pandas" width="70" height="70"/>
   <img src="images/django-icon.svg" alt="Django" width="70" height="70"/>
 </div>
-
-<img src="images/snake.svg">
