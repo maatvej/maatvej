@@ -16,5 +16,3 @@
   <img src="images/pandas.svg" alt="Pandas" width="70" height="70"/>
   <img src="images/django-icon.svg" alt="Django" width="70" height="70"/>
 </div>
-
-<iframe src="https://discord.com/widget?id=1384133320396505209&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
