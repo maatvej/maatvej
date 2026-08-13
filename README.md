@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Senior+ML+%26+MLOps+Engineer;Data+Scientist+%7C+Applied+Mathematician;Backend+Developer+(Python+%2F+FastAPI);LLM+Agents+%26+Optimization+Specialist)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Python+Developer+%26+MLOps+Engineer;Data+Scientist+%7C+Applied+Mathematician;Backend+Developer+(Python+%2F+FastAPI);LLM+Agents+%26+Optimization+Specialist)](https://git.io/typing-svg)
 
   <p align="center">
     <b>Specializing in production MLOps systems, mathematical optimization, LLM agents, and high-performance analytical backends.</b>
@@ -41,7 +41,6 @@ Senior Engineer with expertise in designing, building, and deploying production-
 | **MLOps, CI/CD & Tooling** | Docker, NVIDIA Container Toolkit (GPU), `uv`, Poetry, PyInstaller, Pytest, Ruff, Mypy |
 | **Data Processing & Analytics** | Pandas, NumPy, Matplotlib, Seaborn, OpenPyXL, XlsxWriter |
 
----
 
 ## Featured Projects & Experience
 
