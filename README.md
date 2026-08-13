@@ -45,7 +45,7 @@ Senior Engineer with expertise in designing, building, and deploying production-
 
 ## Featured Projects & Experience
 
-### 1. NeuroSpros B1 - Industrial Dynamic Pricing & Demand Forecasting System
+### 1. Industrial Dynamic Pricing & Demand Forecasting System
 *An end-to-end industrial MLOps system for demand forecasting, price elasticity curve fitting, and retail price optimization.*
 
 * **Architecture:** Implemented using Clean Architecture principles, strict layer separation (DAL, features, models, business logic, and optimization layers).
@@ -54,7 +54,7 @@ Senior Engineer with expertise in designing, building, and deploying production-
 * **Data Pipelines & Storage:** High-performance ETL pipeline processing Parquet files via Nexus, automated PostgreSQL partition replacement, and atomic transactional database sessions.
 * **Containerization:** Containerized pipeline deployment using Docker Compose with full NVIDIA GPU runtime support.
 
-### 2. Retail Analytics Assistant (b-pn-agent)
+### 2. Retail Analytics Assistant
 *An intelligent analytics assistant converting natural language queries into optimized ClickHouse SQL with dynamic chart generation.*
 
 * **Text-to-SQL Agent:** Powered by Anthropic Claude 3.5 Sonnet / OpenRouter to translate complex domain-specific questions into executable ClickHouse SQL queries.
@@ -62,7 +62,7 @@ Senior Engineer with expertise in designing, building, and deploying production-
 * **LLM Chart Planner:** Implemented an LLM decision module that evaluates SQL outputs and automatically selects appropriate chart types (`bar`, `line`, `doughnut`), axis mappings, and optimal orientations.
 * **Observability:** Structured execution logging (`logs/model_traces/`) capturing prompts, model outputs, generated SQL queries, and database execution metadata.
 
-### 3. WeibullTool - Equipment Reliability & Maintenance Optimization Platform
+### 3. Equipment Reliability & Maintenance Optimization Platform
 *A reliability engineering backend providing failure probability estimation, lifecycle Monte Carlo simulation, and preventive maintenance schedule optimization.*
 
 * **Mathematical Estimation:** Estimated Weibull distribution parameters ($\alpha, \beta$) via Maximum Likelihood Estimation (MLE) using **SciPy**, **Autograd**, and **Lifelines**.
