@@ -16,9 +16,8 @@
   </p>
 </div>
 
----
 
-## Overview
+# Overview
 
 Senior Engineer with expertise in designing, building, and deploying production-grade Machine Learning pipelines, mathematical optimization algorithms, LLM-driven autonomous agents, and high-performance backend services.
 
@@ -30,7 +29,7 @@ Senior Engineer with expertise in designing, building, and deploying production-
 * **MLOps & Engineering Infrastructure:** Docker & NVIDIA Container Toolkit (GPU execution inside containers), package management (`uv`, `poetry`), static analysis (Ruff, Mypy), testing (Pytest), standalone desktop packaging (PyInstaller).
 
 
-## Technical Stack
+# Technical Stack
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
@@ -42,7 +41,7 @@ Senior Engineer with expertise in designing, building, and deploying production-
 | **Data Processing & Analytics** | Pandas, NumPy, Matplotlib, Seaborn, OpenPyXL, XlsxWriter |
 
 
-## Featured Projects & Experience
+# Featured Projects & Experience
 
 ### 1. Industrial Dynamic Pricing & Demand Forecasting System
 *An end-to-end industrial MLOps system for demand forecasting, price elasticity curve fitting, and retail price optimization.*
